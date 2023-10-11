@@ -7,7 +7,8 @@
     "dev": "trunk serve",
     "build": "cargo run build",
     "deve": "cargo run dev",
-    "test": "cargo run test"
+    "test": "cargo run test",
+    "fmt": "cargo fmt --all -- --check"
   },
   "keywords": [
     "invoice",
