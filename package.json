@@ -1,0 +1,19 @@
+{
+  "name": "templated.rs",
+  "version": "1.0.0",
+  "description": "template generator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "trunk serve",
+    "build": "cargo run build",
+    "deve": "cargo run dev",
+    "test": "cargo run test"
+  },
+  "keywords": [
+    "invoice",
+    "resume",
+    "generator"
+  ],
+  "author": "Felix Eligbue",
+  "license": "MIT"
+}
