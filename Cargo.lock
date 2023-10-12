@@ -11,7 +11,9 @@ dependencies = [
  "serde",
  "serde_json",
  "stylist",
+ "wasm-bindgen",
  "wasm-bindgen-futures",
+ "web-sys",
  "yew 0.21.0 (git+https://github.com/yewstack/yew/)",
 ]
 
